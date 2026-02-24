@@ -456,17 +456,17 @@ class HomeTileReportingETLTest:
         # Display sample data if tests passed
         if insert_success and insert_daily is not None:
             print("\n=== INSERT SCENARIO - DAILY SUMMARY SAMPLE ===")
-            insert_daily.show(10, False)
+            insert_daily.show(10, truncate=False)
             
             print("\n=== INSERT SCENARIO - GLOBAL KPIS ===")
-            insert_global.show(False)
+            insert_global.show(truncate=False)
         
         if update_success and update_daily is not None:
             print("\n=== UPDATE SCENARIO - DAILY SUMMARY SAMPLE ===")
-            update_daily.show(10, False)
+            update_daily.show(10, truncate=False)
             
             print("\n=== UPDATE SCENARIO - GLOBAL KPIS ===")
-            update_global.show(False)
+            update_global.show(truncate=False)
         
         # Return overall test status
         overall_success = insert_success and update_success
