@@ -15,6 +15,20 @@
       "test_status": "PASS",
       "job_id": "14087",
       "job_name": "home_tile_reporting_etl_Test_Job_3"
+    },
+    {
+      "version": 2,
+      "pipeline_notebook": "home_tile_reporting_etl_Pipeline_2",
+      "pipeline_path": "/Workspace/Users/elansuriyaa.p@ascendion.com/PySpark/home_tile_reporting_etl_Pipeline_2",
+      "pipeline_created_on": "2024-12-19T12:00:00Z",
+      "pipeline_changes": "PCE-5 - Added SOURCE_TILE_METADATA integration, enhanced tile category enrichment, business grouping support",
+      "test_notebook": "home_tile_reporting_etl_Test_2",
+      "test_path": "/Workspace/Users/elansuriyaa.p@ascendion.com/PySpark/home_tile_reporting_etl_Test_2",
+      "test_created_on": "2024-12-19T12:05:00Z",
+      "test_status": "PASS",
+      "test_changes": "Enhanced test scenarios for SOURCE_TILE_METADATA integration and tile category validation",
+      "job_id": "14087",
+      "job_name": "home_tile_reporting_etl_Test_Job_2"
     }
   ]
 }
