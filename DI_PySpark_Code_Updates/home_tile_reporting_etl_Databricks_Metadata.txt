@@ -1,0 +1,20 @@
+Databricks Metadata Tracking File
+==================================
+
+Input File Name: home_tile_reporting_etl
+Databricks Instance: https://dbc-eba82ad6-7a8b.cloud.databricks.com
+Warehouse ID: 4ac98baaee04e0b2
+Output Folder: /Workspace/Users/elansuriyaa.p@ascendion.com/PySpark
+
+Version 1 Details:
+-----------------
+Pipeline Notebook: home_tile_reporting_etl_Pipeline_1
+Pipeline Path: /Workspace/Users/elansuriyaa.p@ascendion.com/PySpark/home_tile_reporting_etl_Pipeline_1_4
+Pipeline Created: 2025-01-27T10:30:00Z
+
+Test Notebook: home_tile_reporting_etl_Test_1
+Test Path: /Workspace/Users/elansuriyaa.p@ascendion.com/PySpark/home_tile_reporting_etl_Test_1_6
+Test Created: 2025-01-27T10:35:00Z
+Test Status: PASS
+Test Job ID: 1124851950
+Test Job URL: https://dbc-eba82ad6-7a8b.cloud.databricks.com/#job/1124851950
